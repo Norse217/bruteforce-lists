@@ -11,7 +11,6 @@ paypal.me/txt3rob
 
 You can run it on a VPS.
 
-[!https://play.google.com/store/apps/details?id=aarnav100.developer.g_forms&hl=en_IN]
-
+https://sites.google.com/view/formsapp/home
 
 You get free $200 credit for 60 days if you sign up and add a payment method.
